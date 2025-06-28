@@ -83,10 +83,10 @@ VocalMate/
 
 ## 📦 Dependencies
 
-pyttsx3 – Offline TTS engine
-speechrecognition – Speech-to-text from microphone
-tkinter – GUI
-pyaudio – Microphone audio input (may require special installation on Windows/Mac)
+- pyttsx3 – Offline TTS engine
+- speechrecognition – Speech-to-text from microphone
+- tkinter – GUI
+- pyaudio – Microphone audio input (may require special installation on Windows/Mac)
 
 📌 Note: If you're facing issues with pyaudio, install via wheel:
 
